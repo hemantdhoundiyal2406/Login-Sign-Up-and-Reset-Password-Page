@@ -1,4 +1,4 @@
-# This project is a responsive authentication system designed with HTML, CSS, Bootstrap, and JavaScript. It includes three essential pages: Login, Sign Up, and Reset Password. The pages are styled with Bootstrap to ensure a clean and modern look, along with full responsiveness across different devices and screen sizes.
+This project is a responsive authentication system with HTML, CSS, Bootstrap, and JavaScript. It includes three essential pages: Login, Sign Up, and Reset Password. The pages are styled with Bootstrap to ensure a clean and modern look and full responsiveness across different devices and screen sizes.
 
 . Key Features:
 . Login Page: Allows users to sign in with their credentials.
